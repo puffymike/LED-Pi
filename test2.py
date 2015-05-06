@@ -3,7 +3,7 @@
 #
 #  This Program aims to combine Lighshow Pi and BilblioPixel to create a  led strip
 #That responds to music imput through the usb port
-
+#hi huff
 
 #imports from the New lighshowpi sync lights 
 
